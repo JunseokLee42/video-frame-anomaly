@@ -7,6 +7,10 @@ This project is a Python script for processing video files in a specified direct
 - Python 3.x
 - OpenCV (`cv2`)
 
+## Dataset
+
+You can download MVfouls dataset [here](https://github.com/SoccerNet/sn-mvfoul).
+
 ## Installation
 
 1. Clone the repository:
@@ -32,4 +36,4 @@ To use this script, you need to specify the base directory containing your video
 ### Example
 
 ```sh
-python video_processor.py --base_directory /path/to/videos --csv_name output.csv
+python video_anomaly.py --base_directory /path/to/videos --csv_name output.csv
