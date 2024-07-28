@@ -9,7 +9,7 @@ This project is a Python script for processing video files in a specified direct
 
 ## Dataset
 
-You can download MVfouls dataset [here](https://github.com/SoccerNet/sn-mvfoul).
+You can download SoccerNet-MVfoul dataset [here](https://github.com/SoccerNet/sn-mvfoul).
 
 ## Installation
 
