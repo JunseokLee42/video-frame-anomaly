@@ -15,8 +15,8 @@ You can download SoccerNet-MVfoul dataset [here](https://github.com/SoccerNet/sn
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/JunseokLee42/videoprocessor.git
-    cd videoprocessor
+    git clone https://github.com/JunseokLee42/video-processor.git
+    cd video-processor
     ```
 
 2. Install the required Python packages:
